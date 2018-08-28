@@ -1,4 +1,4 @@
-### Image-to-Image Translation with Conditional Adversarial Networks
+# Image-to-Image Translation with Conditional Adversarial Networks
 
 Image-to-image translation using single-channel (gray) images only.
 
